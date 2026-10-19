@@ -1,0 +1,1243 @@
+{
+  "source_name": "082742_840012_补价细类_时尚套装.json",
+  "description": "对应原始证据的选品字段摘要，不是原始后台完整日志。",
+  "snapshot_date": "2026-10-19",
+  "products": [
+    {
+      "rank_id": "3846496706648735799",
+      "product_id": "3846493773194461224",
+      "title": "儿童卫衣套装秋季男童衣服洋气女童上衣裤子两件套童装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 5220,
+      "volume_source": "network_exact",
+      "month_all_display": 7942,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "贝比象母婴",
+      "score": 89,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3846493773194461224&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          927,
+          1024,
+          893,
+          1140,
+          1243,
+          1308,
+          1076
+        ],
+        "last_day": 1076,
+        "last3_vs_previous3": 0.27531645569620244,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 7550,
+      "video_share_calculated": 0.6914,
+      "share_text": "视频销量占比69%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3846872129941405730",
+      "product_id": "3845490853233688652",
+      "title": "女童套装2026秋季新款儿童中长款长袖衫宝宝洋气休闲条纹打底裤潮",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 19.98,
+      "price_label": "到手价",
+      "volume7_video": 3927,
+      "volume_source": "network_exact",
+      "month_all_display": 5582,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "贝缇妮童装店",
+      "score": 79,
+      "observed_prices": [
+        19.98
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845490853233688652&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          382,
+          1482,
+          1082,
+          323,
+          668,
+          419,
+          834
+        ],
+        "last_day": 834,
+        "last3_vs_previous3": -0.3479293957909029,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5181,
+      "video_share_calculated": 0.758,
+      "share_text": "视频销量占比75%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3835589529952190707",
+      "product_id": "3835585088956006867",
+      "title": "儿童春秋季新款三件套男女宝宝外穿皮外套休闲洋气时髦套装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 56.9,
+      "price_label": "到手价",
+      "volume7_video": 3035,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "麻麻歪歪童装",
+      "score": 85,
+      "observed_prices": [
+        56.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3835585088956006867&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          201,
+          233,
+          544,
+          693,
+          753,
+          732,
+          377
+        ],
+        "last_day": 377,
+        "last3_vs_previous3": 0.9038854805725971,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3533,
+      "video_share_calculated": 0.859,
+      "share_text": "视频销量占比85%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842656544353288373",
+      "product_id": "3842652696129700308",
+      "title": "2026新款儿童秋冬韩版时尚加绒加厚假两件套装休闲男女童两件套潮",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 79.9,
+      "price_label": "到手价",
+      "volume7_video": 2627,
+      "volume_source": "network_exact",
+      "month_all_display": 6530,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "小小学长童品",
+      "score": 89,
+      "observed_prices": [
+        79.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842652696129700308&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          634,
+          495,
+          223,
+          379,
+          323,
+          566,
+          413
+        ],
+        "last_day": 413,
+        "last3_vs_previous3": -0.03698224852071008,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3019,
+      "video_share_calculated": 0.8702,
+      "share_text": "视频销量占比87%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845936681568043366",
+      "product_id": "3845932483514335260",
+      "title": "【亲子装】女童新款加绒套装2026秋冬毛领立领休闲外套阔腿裤两件套",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 2558,
+      "volume_source": "network_exact",
+      "month_all_display": 5947,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "小岚朵童装工厂",
+      "score": 91,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845932483514335260&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          258,
+          232,
+          302,
+          871,
+          1183,
+          1250,
+          1710
+        ],
+        "last_day": 1710,
+        "last3_vs_previous3": 4.231060606060606,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5757,
+      "video_share_calculated": 0.4443,
+      "share_text": "直播销量占比45%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3843920282477789518",
+      "product_id": "3843454055422754868",
+      "title": "男童秋冬套装宝宝韩系澳粒绒外套加厚保暖长裤婴幼儿分体两件套潮",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 49.9,
+      "price_label": "到手价",
+      "volume7_video": 2327,
+      "volume_source": "network_exact",
+      "month_all_display": 6696,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "萌逗眯眯眼",
+      "score": 87,
+      "observed_prices": [
+        49.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3843454055422754868&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          270,
+          247,
+          252,
+          174,
+          407,
+          754,
+          911
+        ],
+        "last_day": 911,
+        "last3_vs_previous3": 1.694408322496749,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3015,
+      "video_share_calculated": 0.7718,
+      "share_text": "视频销量占比77%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845292256328286316",
+      "product_id": "3845285255380598916",
+      "title": "女童夹棉套装秋冬季加厚保暖宝宝女孩洋气26新款儿童秋冬保暖套装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 2240,
+      "volume_source": "network_exact",
+      "month_all_display": 5402,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "小瑷童装优选",
+      "score": 85,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845285255380598916&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          420,
+          427,
+          548,
+          354,
+          516,
+          697,
+          358
+        ],
+        "last_day": 358,
+        "last3_vs_previous3": 0.12616487455197123,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3301,
+      "video_share_calculated": 0.6786,
+      "share_text": "视频销量占比67%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3839451259652407613",
+      "product_id": "3839441887966658711",
+      "title": "女童2026童装秋季新款洋气时尚韩版森系复古舒宽松显瘦气质三件套",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 1970,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "听妈妈话童装2号店",
+      "score": 95,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3839441887966658711&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          522,
+          502,
+          715,
+          614,
+          829,
+          275,
+          250
+        ],
+        "last_day": 250,
+        "last3_vs_previous3": -0.2213916043703278,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3706,
+      "video_share_calculated": 0.5316,
+      "share_text": "视频销量占比53%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3833127495851442487",
+      "product_id": "3833112444155330711",
+      "title": "2026年秋姜黄色条纹长袖T恤韩版潮酷男女童洋气百搭儿童上衣套装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 1881,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "奇儿童装小铺",
+      "score": 91,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3833112444155330711&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          474,
+          468,
+          501,
+          318,
+          358,
+          279,
+          200
+        ],
+        "last_day": 200,
+        "last3_vs_previous3": -0.41995841995842,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 2597,
+      "video_share_calculated": 0.7243,
+      "share_text": "视频销量占比72%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3841864021854781730",
+      "product_id": "3841862056882078028",
+      "title": "2026秋上新女童春秋花边娃娃领卫衣套装时尚洋气可爱甜美女孩",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 1809,
+      "volume_source": "network_exact",
+      "month_all_display": 9978,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "歌歌童装工厂",
+      "score": 79,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3841862056882078028&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          402,
+          425,
+          494,
+          376,
+          395,
+          309,
+          194
+        ],
+        "last_day": 194,
+        "last3_vs_previous3": -0.320211960635882,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 2595,
+      "video_share_calculated": 0.6971,
+      "share_text": "视频销量占比69%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845617687988404367",
+      "product_id": "3845584371935478187",
+      "title": "女童秋冬温柔中袖麻花毛衣韩系浅卡其一体绒微喇裤奶白色打底套装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 32.99,
+      "price_label": "到手价",
+      "volume7_video": 1622,
+      "volume_source": "network_exact",
+      "month_all_display": 4977,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "柠萌家童装精选二号店",
+      "score": 86,
+      "observed_prices": [
+        32.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845584371935478187&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          268,
+          223,
+          306,
+          380,
+          356,
+          283,
+          191
+        ],
+        "last_day": 191,
+        "last3_vs_previous3": 0.04140526976160608,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 2003,
+      "video_share_calculated": 0.8098,
+      "share_text": "视频销量占比80%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3844502353617224110",
+      "product_id": "3844500219303690467",
+      "title": "女童秋冬套装新款时尚韩版针织斗篷罩衫毛衣上衣休闲喇叭裤三件套",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 69.9,
+      "price_label": "到手价",
+      "volume7_video": 1578,
+      "volume_source": "network_exact",
+      "month_all_display": 6247,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "萌琪贝贝",
+      "score": 84,
+      "observed_prices": [
+        69.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3844500219303690467&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          289,
+          365,
+          240,
+          164,
+          258,
+          290,
+          266
+        ],
+        "last_day": 266,
+        "last3_vs_previous3": -0.08948545861297541,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 1870,
+      "video_share_calculated": 0.8439,
+      "share_text": "视频销量占比84%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3844548458186932566",
+      "product_id": "3844540029347168299",
+      "title": "女童复古印花T恤26秋季新款儿童打底衫小皮裤韩版七分裤套装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 29.99,
+      "price_label": "到手价",
+      "volume7_video": 1168,
+      "volume_source": "network_exact",
+      "month_all_display": 6195,
+      "stage": "价格边界待核",
+      "category_factor": 0.9,
+      "price_factor": null,
+      "thresholds": null,
+      "shop": "小瑷童装优选2店",
+      "score": 85,
+      "observed_prices": [
+        29.99
+      ],
+      "possible_stages": [
+        "价格边界待核"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3844540029347168299&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          251,
+          498,
+          266,
+          305,
+          154,
+          151,
+          204
+        ],
+        "last_day": 204,
+        "last3_vs_previous3": -0.49852216748768474,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 1827,
+      "video_share_calculated": 0.6393,
+      "share_text": "视频销量占比63%",
+      "all_at": "2026-10-19T08:31:54.399917+08:00",
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3843348540910862761",
+      "product_id": "3838195147074568297",
+      "title": "女宝套装2026新款儿童韩版洋气波点花苞背心牛仔裤上衣三件套潮款",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 1145,
+      "volume_source": "network_exact",
+      "month_all_display": 2181,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "流失的碎片的童装店",
+      "score": 82,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3838195147074568297&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          292,
+          206,
+          94,
+          48,
+          60,
+          368,
+          262
+        ],
+        "last_day": 262,
+        "last3_vs_previous3": 0.16554054054054057,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3840772045822624176",
+      "product_id": "3840752671275483379",
+      "title": "女童春秋洋气套装针织马甲打底衫休闲女孩宝宝弯刀裤儿童两件套",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 1141,
+      "volume_source": "network_exact",
+      "month_all_display": 2536,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "上安童装",
+      "score": 83,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3840752671275483379&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          95,
+          569,
+          260,
+          104,
+          108,
+          62,
+          75
+        ],
+        "last_day": 75,
+        "last3_vs_previous3": -0.7348484848484849,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3835991949068861538",
+      "product_id": "3835986580460404893",
+      "title": "2026秋季男女童通用休闲风拉链套装韩版时尚风衣秋款童装50300",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 69.9,
+      "price_label": "到手价",
+      "volume7_video": 1132,
+      "volume_source": "network_exact",
+      "month_all_display": 4066,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "初觅优选童装",
+      "score": 80,
+      "observed_prices": [
+        69.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3835986580460404893&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          92,
+          86,
+          153,
+          115,
+          166,
+          155,
+          490
+        ],
+        "last_day": 490,
+        "last3_vs_previous3": 1.4501510574018126,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3840434536580251773",
+      "product_id": "3840430327403249997",
+      "title": "女童套装洋气韩版复古马甲宽松显瘦阔腿裤春秋时尚童装时髦三件套",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 36.0,
+      "price_label": "到手价",
+      "volume7_video": 1030,
+      "volume_source": "network_exact",
+      "month_all_display": 8294,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "小可爱童铺个体店",
+      "score": 88,
+      "observed_prices": [
+        36.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3840430327403249997&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          261,
+          176,
+          157,
+          250,
+          248,
+          105,
+          72
+        ],
+        "last_day": 72,
+        "last3_vs_previous3": -0.2845117845117846,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3843011237818532118",
+      "product_id": "3843006807350050932",
+      "title": "韩系女童秋季新款洋气针织马甲休闲花苞裙时髦套装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 1016,
+      "volume_source": "network_exact",
+      "month_all_display": 4821,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "多甜家童装小铺",
+      "score": 79,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3843006807350050932&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          155,
+          322,
+          399,
+          273,
+          226,
+          128,
+          98
+        ],
+        "last_day": 98,
+        "last3_vs_previous3": -0.48401826484018273,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842144416689160522",
+      "product_id": "3840928767124046153",
+      "title": "男童秋装套装儿童新款帅洋气童装衣服宝宝春秋季纯棉卫衣潮童服装",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 49.9,
+      "price_label": "到手价",
+      "volume7_video": 1008,
+      "volume_source": "network_exact",
+      "month_all_display": 7231,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "A家B三号店",
+      "score": 83,
+      "observed_prices": [
+        49.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3840928767124046153&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          452,
+          222,
+          178,
+          117,
+          123,
+          93,
+          354
+        ],
+        "last_day": 354,
+        "last3_vs_previous3": -0.33098591549295775,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842082116175266133",
+      "product_id": "3842042849428373920",
+      "title": "女童连衣裙2026新款韩版女宝宝咖色波点背心裙休闲打底衫两件套潮",
+      "categories": [
+        "时尚套装"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 975,
+      "volume_source": "network_exact",
+      "month_all_display": 2741,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "多甜家童装小铺",
+      "score": 79,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842042849428373920&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          203,
+          213,
+          100,
+          292,
+          137,
+          134,
+          42
+        ],
+        "last_day": 42,
+        "last3_vs_previous3": -0.3934108527131783,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:42.840012+08:00",
+      "price_at": "2026-10-19T08:27:43.128893+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    }
+  ]
+}

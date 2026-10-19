@@ -1,0 +1,565 @@
+{
+  "source_name": "083000_102800_商品价格与映射_全渠道_休闲裤.json",
+  "description": "对应原始证据的选品字段摘要，不是原始后台完整日志。",
+  "snapshot_date": "2026-10-19",
+  "products": [
+    {
+      "rank_id": "3779351806002463164",
+      "product_id": "3779348511653495228",
+      "title": "【现货加绒】2026男女童格子运动裤宽松皮筋口保暖-亲萌鱼-8858",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 25.9,
+      "price_label": "到手价",
+      "volume7_video": 11463,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "亲萌鱼服装工厂店",
+      "score": 91,
+      "observed_prices": [
+        25.9
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3779348511653495228&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          2007,
+          1558,
+          1769,
+          1583,
+          2400,
+          2139,
+          1324
+        ],
+        "last_day": 1324,
+        "last3_vs_previous3": 0.09917510311211086,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 12780,
+      "video_share_calculated": 0.8969,
+      "share_text": "视频销量占比89%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:29:47.932513+08:00",
+      "price_at": "2026-10-19T08:29:48.198623+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3781071998210409435",
+      "product_id": "3781053287135052454",
+      "title": "冬季A类男女童碎花加绒裤保暖百搭保暖裤豹纹儿童裤子童装休闲裤",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 12.99,
+      "price_label": "到手价",
+      "volume7_video": 11045,
+      "volume_source": "network_exact",
+      "month_all_display": 3,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "蛋蛋童装馆",
+      "score": 87,
+      "observed_prices": [
+        12.99
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3781053287135052454&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          2306,
+          2006,
+          1235,
+          1045,
+          969,
+          2526,
+          2231
+        ],
+        "last_day": 2231,
+        "last3_vs_previous3": 0.03226969533080948,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 12318,
+      "video_share_calculated": 0.8967,
+      "share_text": "视频销量占比89%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:29:47.932513+08:00",
+      "price_at": "2026-10-19T08:29:48.198623+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3840008843002249316",
+      "product_id": "3840003287596269759",
+      "title": "女童春秋毛呢微弯刀裤2026休闲百搭潮流宽松舒适阔腿小弯刀休闲裤",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 9233,
+      "volume_source": "network_exact",
+      "month_all_display": 6,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "涛涛童装工厂店",
+      "score": 85,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3840003287596269759&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          2662,
+          1738,
+          1432,
+          1644,
+          1534,
+          1755,
+          1904
+        ],
+        "last_day": 1904,
+        "last3_vs_previous3": -0.10956790123456794,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 12669,
+      "video_share_calculated": 0.7288,
+      "share_text": "视频销量占比72%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:29:47.932513+08:00",
+      "price_at": "2026-10-19T08:29:48.198623+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3779436740868178325",
+      "product_id": "3779434748246622629",
+      "title": "48H【治愈系】儿童加绒弯刀裤2026秋冬新款两穿亲子装",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 19.9,
+      "price_label": "到手价",
+      "volume7_video": 8931,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "鸣鸣童装服饰6号店",
+      "score": 80,
+      "observed_prices": [
+        19.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3779434748246622629&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1004,
+          776,
+          1000,
+          1368,
+          1067,
+          1773,
+          3914
+        ],
+        "last_day": 3914,
+        "last3_vs_previous3": 1.4294964028776982,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 10902,
+      "video_share_calculated": 0.8192,
+      "share_text": "视频销量占比81%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:29:47.932513+08:00",
+      "price_at": "2026-10-19T08:29:48.198623+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3775864702727487892",
+      "product_id": "3775863609666699690",
+      "title": "【艾摩贝贝】儿童秋装亲肤高弹力280g拉架棉女童不掉档打底裤25G044",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 14.99,
+      "price_label": "到手价",
+      "volume7_video": 6965,
+      "volume_source": "network_exact",
+      "month_all_display": 4,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "艾摩贝贝官方旗舰店",
+      "score": 78,
+      "observed_prices": [
+        14.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3775863609666699690&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          2427,
+          2272,
+          1865,
+          1285,
+          1184,
+          1009,
+          1302
+        ],
+        "last_day": 1302,
+        "last3_vs_previous3": -0.46755027422303475,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 11343,
+      "video_share_calculated": 0.614,
+      "share_text": "视频销量占比61%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:25:48.461951+08:00",
+      "price_at": "2026-10-19T08:25:48.756841+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3807572083991511391",
+      "product_id": "3807569453256933865",
+      "title": "女童裤子秋季烫钻满天星宽松弯刀阔腿运动裤休闲女款加绒洋气2026",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 6330,
+      "volume_source": "network_exact",
+      "month_all_display": 4,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "橙梓童装",
+      "score": 87,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3807569453256933865&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1656,
+          1888,
+          1574,
+          1226,
+          1347,
+          1197,
+          1188
+        ],
+        "last_day": 1188,
+        "last3_vs_previous3": -0.2708089097303634,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 10076,
+      "video_share_calculated": 0.6282,
+      "share_text": "视频销量占比62%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:25:48.461951+08:00",
+      "price_at": "2026-10-19T08:25:48.756841+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842220113432543895",
+      "product_id": "3842109432074993792",
+      "title": "大小卷儿童加绒裤子女童束脚卫裤中小童加厚保暖校园神裤-710739",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 4835,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "大小卷儿童装旗舰店",
+      "score": 92,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842109432074993792&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1460,
+          1243,
+          1037,
+          1045,
+          1245,
+          1458,
+          1376
+        ],
+        "last_day": 1376,
+        "last3_vs_previous3": 0.09064171122994646,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 8864,
+      "video_share_calculated": 0.5455,
+      "share_text": "视频销量占比54%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:25:48.461951+08:00",
+      "price_at": "2026-10-19T08:25:48.756841+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845767197863575775",
+      "product_id": "3845764599408361697",
+      "title": "【冬日来信】女童2026冬季韩版加绒加厚假两件休闲裤",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 16.8,
+      "price_label": "到手价",
+      "volume7_video": 4546,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "又喜童装2店",
+      "score": 83,
+      "observed_prices": [
+        16.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845764599408361697&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1607,
+          1873,
+          1763,
+          2024,
+          2216,
+          1710,
+          1384
+        ],
+        "last_day": 1384,
+        "last3_vs_previous3": 0.012778943353042083,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 12534,
+      "video_share_calculated": 0.3627,
+      "share_text": "直播销量占比55%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:25:48.461951+08:00",
+      "price_at": "2026-10-19T08:25:48.756841+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3839493453369180399",
+      "product_id": "3839488778364387649",
+      "title": "【韩系束脚裤】女童2026秋冬季韩系碎花灯笼裤百搭束脚休闲裤",
+      "categories": [
+        "休闲裤"
+      ],
+      "price": 12.8,
+      "price_label": "到手价",
+      "volume7_video": 4494,
+      "volume_source": "network_exact",
+      "month_all_display": 6,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "欧韩童装工厂",
+      "score": 80,
+      "observed_prices": [
+        12.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3839488778364387649&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1597,
+          1448,
+          1488,
+          1361,
+          1249,
+          1143,
+          1204
+        ],
+        "last_day": 1204,
+        "last3_vs_previous3": -0.20670637546878445,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 9489,
+      "video_share_calculated": 0.4736,
+      "share_text": "视频销量占比47%",
+      "all_at": "2026-10-19T08:30:00.102800+08:00",
+      "at": "2026-10-19T08:25:48.461951+08:00",
+      "price_at": "2026-10-19T08:25:48.756841+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    }
+  ]
+}

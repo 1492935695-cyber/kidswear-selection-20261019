@@ -1,0 +1,1185 @@
+{
+  "source_name": "082636_473410_商品价格与映射_马甲.json",
+  "description": "对应原始证据的选品字段摘要，不是原始后台完整日志。",
+  "snapshot_date": "2026-10-19",
+  "products": [
+    {
+      "rank_id": "3845403502272708700",
+      "product_id": "3845399396468523200",
+      "title": "儿童秋冬棉花马甲男女童加厚校服神器内胆宝宝中大童背心保暖坎肩",
+      "categories": [
+        "马甲"
+      ],
+      "price": 19.9,
+      "price_label": "到手价",
+      "volume7_video": 7514,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "蹦蹦鲨",
+      "score": 88,
+      "observed_prices": [
+        19.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845399396468523200&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          385,
+          926,
+          680,
+          470,
+          2328,
+          1108,
+          2485
+        ],
+        "last_day": 2485,
+        "last3_vs_previous3": 1.9738824711200404,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 8371,
+      "video_share_calculated": 0.8976,
+      "share_text": "视频销量占比89%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3772016154172850657",
+      "product_id": "3772012990837162315",
+      "title": "儿童春秋双面穿夹棉马甲2026男童卡通韩版印花秋季女童洋气坎肩潮",
+      "categories": [
+        "马甲"
+      ],
+      "price": 33.8,
+      "price_label": "到手价",
+      "volume7_video": 5711,
+      "volume_source": "network_exact",
+      "month_all_display": 4,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "Cookie童装小铺",
+      "score": 81,
+      "observed_prices": [
+        33.8
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3772012990837162315&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1189,
+          771,
+          709,
+          772,
+          790,
+          1062,
+          1295
+        ],
+        "last_day": 1295,
+        "last3_vs_previous3": 0.1790932933683027,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6588,
+      "video_share_calculated": 0.8669,
+      "share_text": "视频销量占比86%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3774420773385666626",
+      "product_id": "3774418456250810581",
+      "title": "儿童新款马甲男童2026洋气外套工装帅气户外上衣秋冬加厚背心坎肩",
+      "categories": [
+        "马甲"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 5533,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "鱼小爸的童装",
+      "score": 83,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3774418456250810581&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          969,
+          1179,
+          953,
+          753,
+          834,
+          863,
+          691
+        ],
+        "last_day": 691,
+        "last3_vs_previous3": -0.22992583037729775,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6242,
+      "video_share_calculated": 0.8864,
+      "share_text": "视频销量占比88%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842050352635576397",
+      "product_id": "3842048739908911295",
+      "title": "儿童摇粒绒马甲男2026秋冬新款小童加绒背心潮宝宝保暖坎肩女外搭",
+      "categories": [
+        "马甲"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 5466,
+      "volume_source": "network_exact",
+      "month_all_display": 7756,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "星跃贝贝童装",
+      "score": 87,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842048739908911295&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1496,
+          1009,
+          850,
+          494,
+          606,
+          810,
+          1165
+        ],
+        "last_day": 1165,
+        "last3_vs_previous3": -0.2307004470938896,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6430,
+      "video_share_calculated": 0.8501,
+      "share_text": "视频销量占比85%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3715864021455477479",
+      "product_id": "3699030920305705405",
+      "title": "【校服神器】雅鹿儿童马甲亲子款90白鸭绒防跑绒亲肤轻盈保暖羽绒",
+      "categories": [
+        "马甲"
+      ],
+      "price": 49.9,
+      "price_label": "到手价",
+      "volume7_video": 5164,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "雅鹿暖阳童装专卖店",
+      "score": 88,
+      "observed_prices": [
+        49.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3699030920305705405&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          522,
+          1129,
+          1042,
+          1267,
+          595,
+          692,
+          705
+        ],
+        "last_day": 705,
+        "last3_vs_previous3": -0.2603044931303379,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5951,
+      "video_share_calculated": 0.8678,
+      "share_text": "视频销量占比86%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3835242898283168181",
+      "product_id": "3835234907496514027",
+      "title": "宝宝马甲外穿春秋冬保暖新生儿坎肩40g儿童背心夹棉婴儿马甲衣服",
+      "categories": [
+        "马甲"
+      ],
+      "price": 14.9,
+      "price_label": "到手价",
+      "volume7_video": 4801,
+      "volume_source": "network_exact",
+      "month_all_display": 4,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "小龙人叁号店",
+      "score": 90,
+      "observed_prices": [
+        14.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3835234907496514027&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1309,
+          1149,
+          1262,
+          1421,
+          1446,
+          1293,
+          1117
+        ],
+        "last_day": 1117,
+        "last3_vs_previous3": 0.03655913978494607,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 8996,
+      "video_share_calculated": 0.5337,
+      "share_text": "视频销量占比53%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3638878218213285487",
+      "product_id": "3638876854737368195",
+      "title": "双层加绒加厚儿童马甲外穿春秋装婴儿宝宝秋冬奥粒绒开衫马甲背心",
+      "categories": [
+        "马甲"
+      ],
+      "price": 19.9,
+      "price_label": "到手价",
+      "volume7_video": 4511,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "巴丫丫童装工厂店",
+      "score": 89,
+      "observed_prices": [
+        19.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3638876854737368195&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          844,
+          752,
+          999,
+          833,
+          815,
+          848,
+          856
+        ],
+        "last_day": 856,
+        "last3_vs_previous3": -0.02928709055876688,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5946,
+      "video_share_calculated": 0.7587,
+      "share_text": "视频销量占比75%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3707353359091666370",
+      "product_id": "3707229012028948595",
+      "title": "男女童亲子款奥粒绒开衫刺绣马甲加绒加厚保暖立领冬季坎肩",
+      "categories": [
+        "马甲"
+      ],
+      "price": 12.9,
+      "price_label": "到手价",
+      "volume7_video": 4257,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "豆豆童装",
+      "score": 84,
+      "observed_prices": [
+        12.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3707229012028948595&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          720,
+          808,
+          812,
+          701,
+          616,
+          582,
+          740
+        ],
+        "last_day": 740,
+        "last3_vs_previous3": -0.17179487179487174,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4979,
+      "video_share_calculated": 0.855,
+      "share_text": "视频销量占比85%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3840956503955734897",
+      "product_id": "3840950903293215203",
+      "title": "【马卡乐】儿童夹棉马甲轻量保暖亲子马甲秋冬马夹",
+      "categories": [
+        "马甲"
+      ],
+      "price": 49.9,
+      "price_label": "到手价",
+      "volume7_video": 3939,
+      "volume_source": "network_exact",
+      "month_all_display": 7876,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "马卡乐小禾童装专卖店",
+      "score": 86,
+      "observed_prices": [
+        49.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3840950903293215203&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          503,
+          512,
+          701,
+          624,
+          947,
+          1139,
+          1382
+        ],
+        "last_day": 1382,
+        "last3_vs_previous3": 1.0209790209790208,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5808,
+      "video_share_calculated": 0.6782,
+      "share_text": "视频销量占比67%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3566737542042750895",
+      "product_id": "3490131125978988432",
+      "title": "婴儿马甲春秋冬宝宝双面背心新生儿童马甲男女外穿小马夹纯棉坎肩",
+      "categories": [
+        "马甲"
+      ],
+      "price": 29.0,
+      "price_label": "到手价",
+      "volume7_video": 3504,
+      "volume_source": "network_exact",
+      "month_all_display": 5,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "婴蓓依官方旗舰店",
+      "score": 99,
+      "observed_prices": [
+        29.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3490131125978988432&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1932,
+          1579,
+          1941,
+          1555,
+          1480,
+          1308,
+          1313
+        ],
+        "last_day": 1313,
+        "last3_vs_previous3": -0.24779897285399854,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 11108,
+      "video_share_calculated": 0.3154,
+      "share_text": "直播销量占比36%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3526847526022064807",
+      "product_id": "3526847309176561601",
+      "title": "儿童夹棉马甲婴儿加厚保暖马甲宝宝春秋冬坎肩男女宝宝加棉背心",
+      "categories": [
+        "马甲"
+      ],
+      "price": 10.9,
+      "price_label": "到手价",
+      "volume7_video": 3440,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "爆笑喵童装旗舰店",
+      "score": 81,
+      "observed_prices": [
+        10.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3526847309176561601&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1237,
+          807,
+          609,
+          614,
+          459,
+          455,
+          541
+        ],
+        "last_day": 541,
+        "last3_vs_previous3": -0.451564266867697,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4722,
+      "video_share_calculated": 0.7285,
+      "share_text": "视频销量占比72%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3834631438838399015",
+      "product_id": "3834424633990447365",
+      "title": "儿童马甲轻薄排骨款棉马甲宝宝背心男女童外穿坎肩秋冬季棉服内搭",
+      "categories": [
+        "马甲"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 3314,
+      "volume_source": "network_exact",
+      "month_all_display": 3,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "妍艺服饰工厂店",
+      "score": 82,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3834424633990447365&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1166,
+          1304,
+          1240,
+          1169,
+          1420,
+          1104,
+          1224
+        ],
+        "last_day": 1224,
+        "last3_vs_previous3": 0.010242587601078101,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 8627,
+      "video_share_calculated": 0.3841,
+      "share_text": "直播销量占比44%",
+      "all_at": "2026-10-19T08:30:48.331610+08:00",
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842477746919964889",
+      "product_id": "3841663049706635440",
+      "title": "儿童夹棉马甲秋冬款韩系男女童保暖连帽坎肩外套宝宝外穿背心洋气",
+      "categories": [
+        "马甲"
+      ],
+      "price": 36.71,
+      "price_label": "到手价",
+      "volume7_video": 3293,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "星星小牛",
+      "score": 88,
+      "observed_prices": [
+        36.71
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3841663049706635440&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          730,
+          563,
+          348,
+          651,
+          602,
+          375,
+          643
+        ],
+        "last_day": 643,
+        "last3_vs_previous3": -0.012797074954296161,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3846146911904071818",
+      "product_id": "3846145391208824842",
+      "title": "【现货】女童甜美毛绒马甲冬季加绒加厚洋气公主背心外套99009",
+      "categories": [
+        "马甲"
+      ],
+      "price": 45.99,
+      "price_label": "到手价",
+      "volume7_video": 3224,
+      "volume_source": "network_exact",
+      "month_all_display": 5221,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "糯米童装6号仓",
+      "score": 83,
+      "observed_prices": [
+        45.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3846145391208824842&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          68,
+          137,
+          103,
+          342,
+          1025,
+          392,
+          1789
+        ],
+        "last_day": 1789,
+        "last3_vs_previous3": 9.40909090909091,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3836155726766670218",
+      "product_id": "3836149701036605844",
+      "title": "【亲子】女童提花针织26秋季新款韩系百搭费尔岛男童儿童背心马甲",
+      "categories": [
+        "马甲"
+      ],
+      "price": 45.99,
+      "price_label": "到手价",
+      "volume7_video": 3202,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "小瑷童装优选2店",
+      "score": 85,
+      "observed_prices": [
+        45.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3836149701036605844&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          271,
+          239,
+          380,
+          396,
+          870,
+          449,
+          1019
+        ],
+        "last_day": 1019,
+        "last3_vs_previous3": 1.6269662921348313,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842645390264500603",
+      "product_id": "3842641559111729529",
+      "title": "儿童马甲秋冬款新款女宝宝加绒卡通毛绒马甲秋装穿搭卡通背心马甲",
+      "categories": [
+        "马甲"
+      ],
+      "price": 32.9,
+      "price_label": "到手价",
+      "volume7_video": 3116,
+      "volume_source": "network_exact",
+      "month_all_display": 6663,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "宝贝赳赳童装",
+      "score": 85,
+      "observed_prices": [
+        32.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842641559111729529&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          595,
+          392,
+          345,
+          530,
+          502,
+          647,
+          627
+        ],
+        "last_day": 627,
+        "last3_vs_previous3": 0.33333333333333326,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3705541028703556886",
+      "product_id": "3705527247294300190",
+      "title": "贝肽斯儿童马甲男童女童秋冬羽绒新款宝宝轻薄保暖外穿立领背心",
+      "categories": [
+        "马甲"
+      ],
+      "price": 99.0,
+      "price_label": "到手价",
+      "volume7_video": 2840,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "贝肽斯母婴服饰旗舰店",
+      "score": 92,
+      "observed_prices": [
+        99.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3705527247294300190&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          558,
+          606,
+          575,
+          466,
+          420,
+          451,
+          960
+        ],
+        "last_day": 960,
+        "last3_vs_previous3": 0.05290396779758488,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3785944582680871386",
+      "product_id": "3785943902029217936",
+      "title": "Snoopy/史努比儿童春秋季保暖内搭棉马甲新款男女大童儿童马甲童",
+      "categories": [
+        "马甲"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 2772,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "史努比泽晓惜专卖店",
+      "score": 85,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3785943902029217936&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          575,
+          236,
+          832,
+          681,
+          570,
+          596,
+          550
+        ],
+        "last_day": 550,
+        "last3_vs_previous3": 0.04443091905051744,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3718952250949954535",
+      "product_id": "3718949599814222027",
+      "title": "儿童双面加绒马甲中小童秋冬外穿坎肩婴幼儿内穿保暖加厚无袖上衣",
+      "categories": [
+        "马甲"
+      ],
+      "price": 11.9,
+      "price_label": "到手价",
+      "volume7_video": 2608,
+      "volume_source": "network_exact",
+      "month_all_display": 7325,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "甜晨乐童装",
+      "score": 90,
+      "observed_prices": [
+        11.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3718949599814222027&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          247,
+          189,
+          374,
+          897,
+          480,
+          425,
+          532
+        ],
+        "last_day": 532,
+        "last3_vs_previous3": 0.7740740740740741,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:26:36.177904+08:00",
+      "price_at": "2026-10-19T08:26:36.473410+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    }
+  ]
+}

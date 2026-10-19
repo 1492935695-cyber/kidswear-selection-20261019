@@ -1,0 +1,1249 @@
+{
+  "source_name": "082014_978455_细分类_针织衫_毛衣_羊毛衫.json",
+  "description": "对应原始证据的选品字段摘要，不是原始后台完整日志。",
+  "snapshot_date": "2026-10-19",
+  "products": [
+    {
+      "rank_id": "3843803633355456827",
+      "product_id": "3843795022172520915",
+      "title": "男女童老钱风翻领polo麻花针织毛衣秋冬长袖套头上衣百搭打底衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 35.9,
+      "price_label": "到手价",
+      "volume7_video": 13475,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "长今家童装旗舰店",
+      "score": 86,
+      "observed_prices": [
+        35.9
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3843795022172520915&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          6132,
+          5075,
+          3169,
+          1149,
+          1655,
+          545,
+          543
+        ],
+        "last_day": 543,
+        "last3_vs_previous3": -0.8091958820255982,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 18268,
+      "video_share_calculated": 0.7376,
+      "share_text": "视频销量占比73%",
+      "all_at": "2026-10-19T08:32:43.069108+08:00",
+      "at": "2026-10-19T08:29:47.932513+08:00",
+      "price_at": "2026-10-19T08:29:48.198623+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3834087425278345710",
+      "product_id": "3834081910565503456",
+      "title": "女童春秋爆款拼接假两件针织衫中小童韩版洋气百搭甜美公主风上衣",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 46.8,
+      "price_label": "到手价",
+      "volume7_video": 8347,
+      "volume_source": "network_exact",
+      "month_all_display": 3,
+      "stage": "价格边界待核",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "童弈暄童装旗舰店",
+      "score": 88,
+      "observed_prices": [
+        28.08,
+        46.8
+      ],
+      "possible_stages": [
+        "成熟稳定期",
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3834081910565503456&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          2552,
+          2226,
+          1501,
+          1095,
+          849,
+          578,
+          506
+        ],
+        "last_day": 506,
+        "last3_vs_previous3": -0.692148431278866,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 9307,
+      "video_share_calculated": 0.8969,
+      "share_text": "视频销量占比89%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:29:47.932513+08:00",
+      "price_at": "2026-10-19T08:29:48.198623+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3796861028143333812",
+      "product_id": "3796848725150794136",
+      "title": "纯棉A类儿童毛衣春秋新款翻领百搭洋气男女童针织衫POLO领毛线衣",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 49.9,
+      "price_label": "到手价",
+      "volume7_video": 5567,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "杰宾果童装旗舰店",
+      "score": 87,
+      "observed_prices": [
+        49.9
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3796848725150794136&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          706,
+          725,
+          864,
+          1502,
+          898,
+          645,
+          746
+        ],
+        "last_day": 746,
+        "last3_vs_previous3": -0.002614379084967311,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6086,
+      "video_share_calculated": 0.9147,
+      "share_text": "视频销量占比91%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3826676426988454149",
+      "product_id": "3825920242211750352",
+      "title": "PUMA彪马童装儿童半高领毛衣2026秋季新款男女童毛衫套头针织衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 139.0,
+      "price_label": "到手价",
+      "volume7_video": 5329,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "PUMA彪马童装旗舰店",
+      "score": 88,
+      "observed_prices": [
+        139.0
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3825920242211750352&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          755,
+          599,
+          1170,
+          898,
+          933,
+          1242,
+          1243
+        ],
+        "last_day": 1243,
+        "last3_vs_previous3": 0.35419968304278915,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6838,
+      "video_share_calculated": 0.7793,
+      "share_text": "视频销量占比77%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3780532790936862999",
+      "product_id": "3780530568115126444",
+      "title": "儿童针织开衫外套假两件连帽衫秋冬加厚百搭男童女童紫色毛衣洋气",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 49.9,
+      "price_label": "到手价",
+      "volume7_video": 5152,
+      "volume_source": "network_exact",
+      "month_all_display": 5,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "萌萌妈工厂店",
+      "score": 86,
+      "observed_prices": [
+        49.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3780530568115126444&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1186,
+          1262,
+          882,
+          2234,
+          4254,
+          2909,
+          1879
+        ],
+        "last_day": 1879,
+        "last3_vs_previous3": 1.7153153153153151,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 14606,
+      "video_share_calculated": 0.3527,
+      "share_text": "直播销量占比56%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842436006305464566",
+      "product_id": "3842431668522713213",
+      "title": "男女童春秋新款卡通猫咪洋气百搭休闲针织马甲宝宝秋冬秋季开衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 4634,
+      "volume_source": "network_exact",
+      "month_all_display": 5467,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "霖霖妈童品",
+      "score": 84,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842431668522713213&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1560,
+          937,
+          966,
+          669,
+          574,
+          76,
+          594
+        ],
+        "last_day": 594,
+        "last3_vs_previous3": -0.6407738954663587,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5366,
+      "video_share_calculated": 0.8636,
+      "share_text": "视频销量占比86%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3843454151816249703",
+      "product_id": "3843455934504501360",
+      "title": "女童秋冬新款韩系波点蝴蝶结荷叶边羊毛蚕丝女宝薄绒半高领打底衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 12.9,
+      "price_label": "到手价",
+      "volume7_video": 4565,
+      "volume_source": "network_exact",
+      "month_all_display": 9306,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "彩虹泡泡",
+      "score": 84,
+      "observed_prices": [
+        12.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3843455934504501360&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          164,
+          204,
+          1309,
+          1144,
+          1052,
+          1173,
+          1266
+        ],
+        "last_day": 1266,
+        "last3_vs_previous3": 1.0816935002981518,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6312,
+      "video_share_calculated": 0.7232,
+      "share_text": "视频销量占比72%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3783647891936116994",
+      "product_id": "3783643440160571841",
+      "title": "10A级仿羊绒打底衫修身时尚中大童中国风秋冬上衣洋气立领衫休闲",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 36.9,
+      "price_label": "到手价",
+      "volume7_video": 4342,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "三个小宝童装店",
+      "score": 89,
+      "observed_prices": [
+        36.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3783643440160571841&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          1022,
+          629,
+          817,
+          734,
+          692,
+          921,
+          645
+        ],
+        "last_day": 645,
+        "last3_vs_previous3": -0.0850891410048622,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5459,
+      "video_share_calculated": 0.7954,
+      "share_text": "视频销量占比79%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3710193923768113899",
+      "product_id": "3710192855042621638",
+      "title": "秋冬季儿童加绒加厚保暖上衣女孩打底男宝绒衣毛衣中大童洋气百搭",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 10.9,
+      "price_label": "到手价",
+      "volume7_video": 4214,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "商丘市睢阳区小香妮服装店",
+      "score": 90,
+      "observed_prices": [
+        10.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3710192855042621638&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          920,
+          718,
+          723,
+          671,
+          723,
+          912,
+          1151
+        ],
+        "last_day": 1151,
+        "last3_vs_previous3": 0.1800084709868699,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5815,
+      "video_share_calculated": 0.7247,
+      "share_text": "视频销量占比72%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3702346612492879324",
+      "product_id": "3701475834700366092",
+      "title": "【经典圆领】POLOWALK26新男女大童春秋软糯百搭亲子绞花针织衫毛衣",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 129.0,
+      "price_label": "到手价",
+      "volume7_video": 3586,
+      "volume_source": "network_exact",
+      "month_all_display": 3,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "POLOWALK童装旗舰店",
+      "score": 77,
+      "observed_prices": [
+        129.0
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3701475834700366092&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          715,
+          1433,
+          2010,
+          2237,
+          1813,
+          1335,
+          942
+        ],
+        "last_day": 942,
+        "last3_vs_previous3": -0.016354016354016454,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 10479,
+      "video_share_calculated": 0.3422,
+      "share_text": "直播销量占比45%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3842426362048675971",
+      "product_id": "3842423548794765505",
+      "title": "2026秋季新款学院风韩系女童polo针织打底衫百搭洋气长袖上衣",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 16.9,
+      "price_label": "到手价",
+      "volume7_video": 3577,
+      "volume_source": "network_exact",
+      "month_all_display": 7,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "淼儿妈童品八号店",
+      "score": 79,
+      "observed_prices": [
+        16.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3842423548794765505&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          3139,
+          2296,
+          1274,
+          1266,
+          1072,
+          1004,
+          1184
+        ],
+        "last_day": 1184,
+        "last3_vs_previous3": -0.5140855567148606,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 11234,
+      "video_share_calculated": 0.3184,
+      "share_text": "直播销量占比53%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3785532590115651788",
+      "product_id": "3785322963541295572",
+      "title": "2026秋冬季新款3-10岁男女儿童毛衣半高领纯色加厚宝宝针织衫套头",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 28.8,
+      "price_label": "到手价",
+      "volume7_video": 3154,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "丸童木童装",
+      "score": 91,
+      "observed_prices": [
+        28.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3785322963541295572&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          559,
+          555,
+          407,
+          765,
+          835,
+          576,
+          833
+        ],
+        "last_day": 833,
+        "last3_vs_previous3": 0.47534516765285995,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4529,
+      "video_share_calculated": 0.6964,
+      "share_text": "视频销量占比69%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3800577611445436769",
+      "product_id": "3800569872040198446",
+      "title": "【A类100%棉】2026春秋长袖男女童套头毛衣宝宝纯色棉针织衫打底衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 39.99,
+      "price_label": "到手价",
+      "volume7_video": 3115,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "橙橙家针织童装",
+      "score": 93,
+      "observed_prices": [
+        39.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3800569872040198446&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          525,
+          446,
+          657,
+          397,
+          575,
+          588,
+          811
+        ],
+        "last_day": 811,
+        "last3_vs_previous3": 0.21253071253071254,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3646542901061779962",
+      "product_id": "3646513014364098463",
+      "title": "贝肽斯毛衣新款春秋季宝宝开衫洋气外套儿童打底针织衫保暖百搭",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 69.9,
+      "price_label": "到手价",
+      "volume7_video": 3083,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "贝肽斯母婴服饰旗舰店",
+      "score": 92,
+      "observed_prices": [
+        69.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3646513014364098463&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          451,
+          599,
+          559,
+          1168,
+          691,
+          692,
+          577
+        ],
+        "last_day": 577,
+        "last3_vs_previous3": 0.2181479179614667,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4735,
+      "video_share_calculated": 0.6511,
+      "share_text": "视频销量占比65%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3847259793580491594",
+      "product_id": "3847249981719314931",
+      "title": "POLOWALK童装儿童套头毛衣2026秋季新品保暖半开门襟男童针织衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 159.0,
+      "price_label": "到手价",
+      "volume7_video": 2857,
+      "volume_source": "network_exact",
+      "month_all_display": 5056,
+      "stage": "成熟稳定期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "POLOWALK家居生活旗舰店",
+      "score": 96,
+      "observed_prices": [
+        159.0
+      ],
+      "possible_stages": [
+        "成熟稳定期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3847249981719314931&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          2,
+          14,
+          719,
+          620,
+          646,
+          1546,
+          1505
+        ],
+        "last_day": 1505,
+        "last3_vs_previous3": 4.029931972789115,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5052,
+      "video_share_calculated": 0.5655,
+      "share_text": "视频销量占比56%",
+      "all_at": "2026-10-19T08:31:25.259977+08:00",
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3846376619564466339",
+      "product_id": "3846373329619517639",
+      "title": "男童秋冬polo领毛衣2026新款中大儿童男孩毛线翻领半拉链针织衫",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 19.9,
+      "price_label": "到手价",
+      "volume7_video": 2707,
+      "volume_source": "network_exact",
+      "month_all_display": 6106,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "针采羊童装工厂店",
+      "score": 87,
+      "observed_prices": [
+        19.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3846373329619517639&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          426,
+          431,
+          964,
+          487,
+          756,
+          405,
+          398
+        ],
+        "last_day": 398,
+        "last3_vs_previous3": -0.14387699066447013,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845270291798426118",
+      "product_id": "3845267897454821907",
+      "title": "【A类精梳棉】2026春秋新款儿童麻花半拉链毛衣开衫长袖针织衫打底",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 49.99,
+      "price_label": "到手价",
+      "volume7_video": 2483,
+      "volume_source": "network_exact",
+      "month_all_display": 5864,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "橙橙家针织童装",
+      "score": 93,
+      "observed_prices": [
+        49.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845267897454821907&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          295,
+          186,
+          254,
+          1072,
+          1042,
+          563,
+          439
+        ],
+        "last_day": 439,
+        "last3_vs_previous3": 1.7809523809523813,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3823358517490876866",
+      "product_id": "3823101919031853340",
+      "title": "【专属】PUMA彪马26秋季儿童圆领毛衫柔软亲肤休闲353326103201",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 179.0,
+      "price_label": "到手价",
+      "volume7_video": 2413,
+      "volume_source": "network_exact",
+      "month_all_display": 6129,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "PUMA彪马儿童旗舰店",
+      "score": 86,
+      "observed_prices": [
+        179.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3823101919031853340&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          421,
+          839,
+          360,
+          216,
+          209,
+          581,
+          307
+        ],
+        "last_day": 307,
+        "last3_vs_previous3": -0.3228395061728395,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3771750935689298228",
+      "product_id": "3771635173477712248",
+      "title": "女童春秋洋气长袖条纹圆领披肩防晒毛针织衫套头春季秋季百搭针织",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 25.8,
+      "price_label": "到手价",
+      "volume7_video": 2365,
+      "volume_source": "network_exact",
+      "month_all_display": 9340,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "小七贝贝精选童装",
+      "score": 83,
+      "observed_prices": [
+        25.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3771635173477712248&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          471,
+          612,
+          673,
+          213,
+          163,
+          232,
+          228
+        ],
+        "last_day": 228,
+        "last3_vs_previous3": -0.6452164009111618,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3844920099324690527",
+      "product_id": "3844344208911630533",
+      "title": "韩国童装秋冬宝宝精灵帽毛衣圣诞红色针织衫男女童毛绒保暖连体裤",
+      "categories": [
+        "针织衫/毛衣/羊毛衫"
+      ],
+      "price": 49.99,
+      "price_label": "到手价",
+      "volume7_video": 2365,
+      "volume_source": "network_exact",
+      "month_all_display": 3559,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "啵啵童装集合店",
+      "score": 85,
+      "observed_prices": [
+        49.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3844344208911630533&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          144,
+          253,
+          298,
+          304,
+          783,
+          470,
+          352
+        ],
+        "last_day": 352,
+        "last3_vs_previous3": 1.3093525179856118,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:14.164499+08:00",
+      "price_at": "2026-10-19T08:27:14.458759+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    }
+  ]
+}

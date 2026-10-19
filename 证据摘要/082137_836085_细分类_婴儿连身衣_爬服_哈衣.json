@@ -1,0 +1,1247 @@
+{
+  "source_name": "082137_836085_细分类_婴儿连身衣_爬服_哈衣.json",
+  "description": "对应原始证据的选品字段摘要，不是原始后台完整日志。",
+  "snapshot_date": "2026-10-19",
+  "products": [
+    {
+      "rank_id": "3836848730703790326",
+      "product_id": "3836844154449690780",
+      "title": "婴儿连体衣无骨秋冬保暖睡衣打底哈衣新生儿宝宝衣服爬服雪花暖绒",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 28.9,
+      "price_label": "到手价",
+      "volume7_video": 3819,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "荆钥儿婴童服饰旗舰店",
+      "score": 79,
+      "observed_prices": [
+        28.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3836844154449690780&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          498,
+          866,
+          628,
+          600,
+          683,
+          837,
+          666
+        ],
+        "last_day": 666,
+        "last3_vs_previous3": 0.0973895582329316,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4778,
+      "video_share_calculated": 0.7993,
+      "share_text": "视频销量占比79%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3772222072084889882",
+      "product_id": "3771382962252284398",
+      "title": "儿童长袖睡衣婴儿春秋德绒保暖恐龙婴儿宝宝连体睡袋宝宝秋季衣服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 19.9,
+      "price_label": "到手价",
+      "volume7_video": 3488,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "悠咪童装乐园",
+      "score": 90,
+      "observed_prices": [
+        19.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3771382962252284398&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          747,
+          708,
+          748,
+          783,
+          684,
+          750,
+          499
+        ],
+        "last_day": 499,
+        "last3_vs_previous3": -0.12256014525646841,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4919,
+      "video_share_calculated": 0.7091,
+      "share_text": "视频销量占比70%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3840805686145582379",
+      "product_id": "3837459279674212549",
+      "title": "春秋长袖儿童睡衣宝宝睡袋空调服宝宝秋季衣服婴儿秋季连体衣",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 22.9,
+      "price_label": "到手价",
+      "volume7_video": 3332,
+      "volume_source": "network_exact",
+      "month_all_display": 5533,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "悠咪童装乐园",
+      "score": 90,
+      "observed_prices": [
+        22.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3837459279674212549&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          210,
+          861,
+          696,
+          319,
+          495,
+          354,
+          687
+        ],
+        "last_day": 687,
+        "last3_vs_previous3": -0.1307300509337861,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3621,
+      "video_share_calculated": 0.9202,
+      "share_text": "视频销量占比92%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3809210070500245805",
+      "product_id": "3809043174698123436",
+      "title": "婴儿纯棉连体衣春秋季新生儿开裆长袖打底宝宝哈衣爬服小月龄睡衣",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 2991,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "甜兜兜婴童装",
+      "score": 84,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3809043174698123436&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          535,
+          742,
+          650,
+          479,
+          572,
+          300,
+          372
+        ],
+        "last_day": 372,
+        "last3_vs_previous3": -0.35443694862480546,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3650,
+      "video_share_calculated": 0.8195,
+      "share_text": "视频销量占比81%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3585098647911713433",
+      "product_id": "3585098138849023531",
+      "title": "男女宝宝小熊衣服加厚可爱连体衣外出婴儿秋冬季保暖毛绒绒包脚潮",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 59.9,
+      "price_label": "到手价",
+      "volume7_video": 2633,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "可萌可爱婴童店",
+      "score": 87,
+      "observed_prices": [
+        59.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3585098138849023531&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          230,
+          321,
+          323,
+          418,
+          394,
+          707,
+          790
+        ],
+        "last_day": 790,
+        "last3_vs_previous3": 1.1636155606407326,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3183,
+      "video_share_calculated": 0.8272,
+      "share_text": "视频销量占比82%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3807350281017098563",
+      "product_id": "3807216924564258832",
+      "title": "宝宝长袖家居服纯棉开裆连体衣婴儿哈衣爬服春秋打底男女童空调服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 2560,
+      "volume_source": "network_exact",
+      "month_all_display": 6812,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "甜兜兜婴童装",
+      "score": 84,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3807216924564258832&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          416,
+          353,
+          694,
+          480,
+          501,
+          365,
+          298
+        ],
+        "last_day": 298,
+        "last3_vs_previous3": -0.20437457279562543,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3107,
+      "video_share_calculated": 0.8239,
+      "share_text": "视频销量占比82%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3700534988752703997",
+      "product_id": "3700533757254696960",
+      "title": "婴儿连体衣早春款加绒温感打底小童衣服春秋外出新生儿衣服哈衣",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 23.9,
+      "price_label": "到手价",
+      "volume7_video": 2532,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "萌慕黎母婴坊",
+      "score": 90,
+      "observed_prices": [
+        23.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3700533757254696960&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          608,
+          549,
+          492,
+          594,
+          524,
+          754,
+          674
+        ],
+        "last_day": 674,
+        "last3_vs_previous3": 0.18374772589448152,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4195,
+      "video_share_calculated": 0.6036,
+      "share_text": "视频销量占比60%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3766194630819971556",
+      "product_id": "3765670975673336118",
+      "title": "（拍2件送方巾）四季款婴儿衣服纯棉新生儿包屁衣A类无骨三角哈衣",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 19.9,
+      "price_label": "到手价",
+      "volume7_video": 2483,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "芈洛熙婴童服饰",
+      "score": 97,
+      "observed_prices": [
+        19.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3765670975673336118&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          688,
+          585,
+          477,
+          668,
+          701,
+          744,
+          774
+        ],
+        "last_day": 774,
+        "last3_vs_previous3": 0.2679999999999998,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4637,
+      "video_share_calculated": 0.5355,
+      "share_text": "视频销量占比53%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3766700116317175902",
+      "product_id": "3766696626656248017",
+      "title": "婴儿连体衣保暖春秋款夹棉冬装新生儿宝宝衣服秋装哈衣加厚秋冬季",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 26.9,
+      "price_label": "到手价",
+      "volume7_video": 2162,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "沙市区羽豪制衣厂",
+      "score": 81,
+      "observed_prices": [
+        26.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3766696626656248017&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          325,
+          252,
+          402,
+          600,
+          480,
+          377,
+          455
+        ],
+        "last_day": 455,
+        "last3_vs_previous3": 0.3401430030643513,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3812921323848597528",
+      "product_id": "3694952988444590544",
+      "title": "宝宝拖地爬爬服婴儿防脏连体衣罩衣擦地板爬行服护膝春秋夏季长袖",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 37.8,
+      "price_label": "到手价",
+      "volume7_video": 2125,
+      "volume_source": "network_exact",
+      "month_all_display": 8642,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "澄遥服饰",
+      "score": 84,
+      "observed_prices": [
+        37.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3694952988444590544&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          423,
+          380,
+          430,
+          484,
+          326,
+          257,
+          256
+        ],
+        "last_day": 256,
+        "last3_vs_previous3": -0.3195458231954582,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3836124715114693076",
+      "product_id": "3835797406520311854",
+      "title": "秋冬保暖婴儿连体衣天丝暖绒长袖护肚男女宝宝哈衣秋季新生儿衣服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 29.8,
+      "price_label": "到手价",
+      "volume7_video": 2053,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "哆啦咪婴幼童装",
+      "score": 85,
+      "observed_prices": [
+        29.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3835797406520311854&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          409,
+          564,
+          485,
+          344,
+          422,
+          465,
+          468
+        ],
+        "last_day": 468,
+        "last3_vs_previous3": -0.07064471879286693,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3156,
+      "video_share_calculated": 0.6505,
+      "share_text": "视频销量占比65%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3735635539110527213",
+      "product_id": "3735632391042105787",
+      "title": "春秋夹棉连体衣宝宝纯棉护肚哈衣婴幼儿薄棉蝴蝶衣满月爬服家居服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 36.9,
+      "price_label": "到手价",
+      "volume7_video": 1922,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "啵啵维尼童装旗舰店",
+      "score": 87,
+      "observed_prices": [
+        36.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3735632391042105787&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          252,
+          331,
+          393,
+          374,
+          415,
+          307,
+          275
+        ],
+        "last_day": 275,
+        "last3_vs_previous3": 0.021516393442623016,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3710347051859616360",
+      "product_id": "3710344834649817552",
+      "title": "婴儿衣服无骨新生儿秋冬加绒保暖男女宝宝一体绒双面绒连体衣爬服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 1910,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "班纳之家官方旗舰店",
+      "score": 91,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3710344834649817552&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          314,
+          399,
+          375,
+          439,
+          455,
+          484,
+          436
+        ],
+        "last_day": 436,
+        "last3_vs_previous3": 0.26378676470588225,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3798667684678336831",
+      "product_id": "3798660647349257160",
+      "title": "婴儿纯棉无骨包屁衣春秋长袖护肚三角哈衣新生儿连体衣",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 19.8,
+      "price_label": "到手价",
+      "volume7_video": 1686,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "羽轩童装店",
+      "score": 80,
+      "observed_prices": [
+        19.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3798660647349257160&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          237,
+          208,
+          309,
+          301,
+          374,
+          345,
+          296
+        ],
+        "last_day": 296,
+        "last3_vs_previous3": 0.34615384615384603,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3836907792837509165",
+      "product_id": "3836904629719924840",
+      "title": "秋冬婴儿连体衣绵羊毛长袖保暖衣春秋轻软男女宝宝哈衣新生儿衣服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 1650,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "兔拉迪童装优选",
+      "score": 83,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3836904629719924840&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          330,
+          277,
+          298,
+          233,
+          460,
+          347,
+          298
+        ],
+        "last_day": 298,
+        "last3_vs_previous3": 0.22099447513812143,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3841923674831716724",
+      "product_id": "3841918213738856572",
+      "title": "【今日限送口水巾】【水洗棉花衣】宝宝秋冬保暖棉花连体衣洋气外出服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 39.9,
+      "price_label": "到手价",
+      "volume7_video": 1598,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "卡卡兔婴童服饰",
+      "score": 82,
+      "observed_prices": [
+        39.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3841918213738856572&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          844,
+          727,
+          859,
+          653,
+          644,
+          911,
+          852
+        ],
+        "last_day": 852,
+        "last3_vs_previous3": -0.009465020576131633,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 5488,
+      "video_share_calculated": 0.2912,
+      "share_text": "直播销量占比56%",
+      "all_at": "2026-10-19T08:32:33.248290+08:00",
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3781844690719080744",
+      "product_id": "3781843350748004822",
+      "title": "宝宝爬行服拖地服爬爬服户外婴儿连体衣防脏罩衣擦地板护膝春夏秋",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 45.9,
+      "price_label": "到手价",
+      "volume7_video": 1586,
+      "volume_source": "network_exact",
+      "month_all_display": 9693,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "沃君婴幼",
+      "score": 90,
+      "observed_prices": [
+        45.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3781843350748004822&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          320,
+          324,
+          304,
+          278,
+          268,
+          192,
+          204
+        ],
+        "last_day": 204,
+        "last3_vs_previous3": -0.29957805907172996,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3641159909212556205",
+      "product_id": "3641159904875661599",
+      "title": "宝宝爬爬服秋冬一体式罩衣哈衣爬行服儿童外穿玩耍户外拖地连体衣",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 28.8,
+      "price_label": "到手价",
+      "volume7_video": 1570,
+      "volume_source": "network_exact",
+      "month_all_display": 7370,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "可可小镇悦迈童装专卖店",
+      "score": 91,
+      "observed_prices": [
+        28.8
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3641159904875661599&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          253,
+          275,
+          297,
+          305,
+          285,
+          510,
+          287
+        ],
+        "last_day": 287,
+        "last3_vs_previous3": 0.3115151515151515,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3791509793089388664",
+      "product_id": "3787914136822874430",
+      "title": "秋冬夹棉婴儿连体衣薄棉婴幼儿保暖哈衣0-12月宝宝爬服新生儿衣服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 29.9,
+      "price_label": "到手价",
+      "volume7_video": 1568,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 1.0,
+      "thresholds": [
+        900,
+        9000,
+        45000
+      ],
+      "shop": "哆啦咪婴幼童装",
+      "score": 85,
+      "observed_prices": [
+        29.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3787914136822874430&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          383,
+          280,
+          358,
+          400,
+          244,
+          205,
+          199
+        ],
+        "last_day": 199,
+        "last3_vs_previous3": -0.3653281096963761,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3710124119241712212",
+      "product_id": "3710120527927574762",
+      "title": "贝肽斯婴幼儿包屁衣【暖姜】秋季长袖连体新生儿宝宝保暖哈衣爬服",
+      "categories": [
+        "婴儿连身衣/爬服/哈衣"
+      ],
+      "price": 59.9,
+      "price_label": "到手价",
+      "volume7_video": 1538,
+      "volume_source": "network_exact",
+      "month_all_display": 7912,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "贝肽斯母婴服饰旗舰店",
+      "score": 92,
+      "observed_prices": [
+        59.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3710120527927574762&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          417,
+          439,
+          364,
+          228,
+          285,
+          257,
+          303
+        ],
+        "last_day": 303,
+        "last3_vs_previous3": -0.3073770491803278,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:28:20.889246+08:00",
+      "price_at": "2026-10-19T08:28:21.182171+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    }
+  ]
+}

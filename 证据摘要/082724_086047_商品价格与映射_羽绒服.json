@@ -1,0 +1,1235 @@
+{
+  "source_name": "082724_086047_商品价格与映射_羽绒服.json",
+  "description": "对应原始证据的选品字段摘要，不是原始后台完整日志。",
+  "snapshot_date": "2026-10-19",
+  "products": [
+    {
+      "rank_id": "3845448756187234369",
+      "product_id": "3845445855096209508",
+      "title": "【现货】男童冬季双面穿羽绒服新款中大童冬装保暖外套XT822-MT",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 59.9,
+      "price_label": "到手价",
+      "volume7_video": 3808,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "焕里童装店",
+      "score": 89,
+      "observed_prices": [
+        59.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845445855096209508&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          807,
+          857,
+          694,
+          472,
+          422,
+          306,
+          703
+        ],
+        "last_day": 703,
+        "last3_vs_previous3": -0.39312977099236646,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4260,
+      "video_share_calculated": 0.8939,
+      "share_text": "视频销量占比89%",
+      "all_at": "2026-10-19T08:31:34.987062+08:00",
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3825933528508530922",
+      "product_id": "3825918938563346830",
+      "title": "【专属】PUMA彪马26儿童羽绒服轻薄保暖拼接设计353426107207",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 199.0,
+      "price_label": "到手价",
+      "volume7_video": 2302,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "PUMA彪马儿童旗舰店",
+      "score": 86,
+      "observed_prices": [
+        199.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3825918938563346830&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          873,
+          901,
+          899,
+          978,
+          996,
+          906,
+          1227
+        ],
+        "last_day": 1227,
+        "last3_vs_previous3": 0.17059483726150382,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6780,
+      "video_share_calculated": 0.3395,
+      "share_text": "直播销量占比50%",
+      "all_at": "2026-10-19T08:31:34.987062+08:00",
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3715862275358357099",
+      "product_id": "3699031396837359867",
+      "title": "【双面穿】雅鹿儿童羽绒服现货新款双面穿中大童保暖Y3H06Z00760",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 89.9,
+      "price_label": "到手价",
+      "volume7_video": 2039,
+      "volume_source": "network_exact",
+      "month_all_display": 3563,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "雅鹿暖阳童装专卖店",
+      "score": 88,
+      "observed_prices": [
+        89.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3699031396837359867&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          337,
+          123,
+          469,
+          371,
+          255,
+          217,
+          434
+        ],
+        "last_day": 434,
+        "last3_vs_previous3": -0.024757804090419833,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3826676426988454127",
+      "product_id": "3825920796094758993",
+      "title": "PUMA彪马儿童轻薄羽绒服立领秋冬季男童女童排骨羽绒内胆运动外套",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 199.0,
+      "price_label": "到手价",
+      "volume7_video": 2016,
+      "volume_source": "network_exact",
+      "month_all_display": 2,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "PUMA彪马童装旗舰店",
+      "score": 88,
+      "observed_prices": [
+        199.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3825920796094758993&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          448,
+          465,
+          639,
+          908,
+          696,
+          751,
+          657
+        ],
+        "last_day": 657,
+        "last3_vs_previous3": 0.3556701030927836,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 4564,
+      "video_share_calculated": 0.4417,
+      "share_text": "视频销量占比44%",
+      "all_at": "2026-10-19T08:31:34.987062+08:00",
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3826342010198032466",
+      "product_id": "3826145680649487058",
+      "title": "【国补】张柏芝同款【ask冰极鹅绒服2.0】巴黎秀场款轻薄拼接羽绒服",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 199.0,
+      "price_label": "到手价",
+      "volume7_video": 2015,
+      "volume_source": "network_exact",
+      "month_all_display": 1,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "ASK JUNIOR官方旗舰店",
+      "score": 93,
+      "observed_prices": [
+        199.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3826145680649487058&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          355,
+          296,
+          280,
+          342,
+          433,
+          581,
+          656
+        ],
+        "last_day": 656,
+        "last3_vs_previous3": 0.7937701396348014,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3702939143890951306",
+      "product_id": "3702895866860929171",
+      "title": "贝肽斯儿童鸭绒羽绒服轻盈羽绒裤冬季加厚耐磨保暖抗菌绒反季休闲",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 109.9,
+      "price_label": "到手价",
+      "volume7_video": 1908,
+      "volume_source": "network_exact",
+      "month_all_display": 7240,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "贝肽斯母婴服饰旗舰店",
+      "score": 92,
+      "observed_prices": [
+        109.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3702895866860929171&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          273,
+          347,
+          480,
+          290,
+          346,
+          391,
+          451
+        ],
+        "last_day": 451,
+        "last3_vs_previous3": 0.07999999999999985,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845188998628769870",
+      "product_id": "3845181115300184247",
+      "title": "608020 韩版休闲男童女童舒适时尚洋气百搭羽绒服",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 29.99,
+      "price_label": "到手价",
+      "volume7_video": 1647,
+      "volume_source": "network_exact",
+      "month_all_display": 2334,
+      "stage": "价格边界待核",
+      "category_factor": 0.9,
+      "price_factor": null,
+      "thresholds": null,
+      "shop": "玲姐优选kid",
+      "score": 81,
+      "observed_prices": [
+        29.99
+      ],
+      "possible_stages": [
+        "价格边界待核"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3845181115300184247&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          6,
+          72,
+          714,
+          1019,
+          41,
+          0,
+          0
+        ],
+        "last_day": 0,
+        "last3_vs_previous3": -0.9482323232323232,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3779581230278902005",
+      "product_id": "3779580064052674932",
+      "title": "男童羽绒服冬季新款儿童轻薄内胆上衣冬装保暖宝宝90白鸭绒外套潮",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 79.9,
+      "price_label": "到手价",
+      "volume7_video": 1635,
+      "volume_source": "network_exact",
+      "month_all_display": 7351,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "十月童装店",
+      "score": 89,
+      "observed_prices": [
+        79.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3779580064052674932&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          303,
+          348,
+          236,
+          207,
+          214,
+          402,
+          263
+        ],
+        "last_day": 263,
+        "last3_vs_previous3": -0.00901916572717032,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3845001692957507822",
+      "product_id": "3844982473222127895",
+      "title": "雅鹿童装90鸭绒儿童连帽男女童26冬季新款洋气中大童青少年羽绒服",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 59.99,
+      "price_label": "到手价",
+      "volume7_video": 1627,
+      "volume_source": "network_exact",
+      "month_all_display": 4040,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "魅辰童装店",
+      "score": 81,
+      "observed_prices": [
+        59.99
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3844982473222127895&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          757,
+          313,
+          276,
+          307,
+          61,
+          93,
+          45
+        ],
+        "last_day": 45,
+        "last3_vs_previous3": -0.8521545319465083,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3843001644866470098",
+      "product_id": "3828526252332024251",
+      "title": "【御寒保暖】英氏儿童羽绒服白鸭绒纯色拼接排骨服羽绒外套",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 179.0,
+      "price_label": "到手价",
+      "volume7_video": 1576,
+      "volume_source": "network_exact",
+      "month_all_display": 4554,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "英氏旗舰店",
+      "score": 99,
+      "observed_prices": [
+        179.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3828526252332024251&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          200,
+          196,
+          84,
+          99,
+          1050,
+          394,
+          76
+        ],
+        "last_day": 76,
+        "last3_vs_previous3": 2.166666666666667,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3792956286593794057",
+      "product_id": "3792945701747556814",
+      "title": "雅鹿童装露露款羽绒服男女同款新款排骨款亲子装羽绒服GC",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 75.9,
+      "price_label": "到手价",
+      "volume7_video": 1478,
+      "volume_source": "network_exact",
+      "month_all_display": 3419,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "雅鹿•自由自在童装旗舰店",
+      "score": 86,
+      "observed_prices": [
+        75.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3792945701747556814&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          170,
+          118,
+          117,
+          237,
+          480,
+          264,
+          300
+        ],
+        "last_day": 300,
+        "last3_vs_previous3": 1.577777777777778,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3770477885941481494",
+      "product_id": "3768065653899133288",
+      "title": "【贝肽斯三防羽绒服】真抗菌绒！真三防！秋冬季儿童防寒保暖外套",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 199.0,
+      "price_label": "到手价",
+      "volume7_video": 1336,
+      "volume_source": "network_exact",
+      "month_all_display": 6757,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "贝肽斯童装旗舰店",
+      "score": 86,
+      "observed_prices": [
+        199.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3768065653899133288&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          189,
+          138,
+          158,
+          466,
+          1175,
+          601,
+          480
+        ],
+        "last_day": 480,
+        "last3_vs_previous3": 3.6515463917525777,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3207,
+      "video_share_calculated": 0.4166,
+      "share_text": "视频销量占比41%",
+      "all_at": "2026-10-19T08:31:34.987062+08:00",
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3830916006411370679",
+      "product_id": "3830911861709209972",
+      "title": "BELLE百丽女童轻薄羽绒服外套2026新款中大童儿童保暖排骨羽绒服",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 169.0,
+      "price_label": "到手价",
+      "volume7_video": 1332,
+      "volume_source": "network_exact",
+      "month_all_display": 6023,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "BELLE BELLE儿童羽绒服旗舰店",
+      "score": 89,
+      "observed_prices": [
+        169.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3830911861709209972&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          177,
+          137,
+          283,
+          216,
+          116,
+          152,
+          485
+        ],
+        "last_day": 485,
+        "last3_vs_previous3": 0.2613065326633166,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3831282148053221644",
+      "product_id": "3830916173973815780",
+      "title": "帕丁顿熊婴儿羽绒服男童女童轻薄短款外套宝宝冬装2026新款童装潮",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 99.9,
+      "price_label": "到手价",
+      "volume7_video": 1296,
+      "volume_source": "network_exact",
+      "month_all_display": 9552,
+      "stage": "价格边界待核",
+      "category_factor": 0.9,
+      "price_factor": null,
+      "thresholds": null,
+      "shop": "帕丁顿熊PADDINGTON奥莱旗舰店",
+      "score": 91,
+      "observed_prices": [
+        99.9
+      ],
+      "possible_stages": [
+        "价格边界待核"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3830916173973815780&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          473,
+          498,
+          379,
+          495,
+          570,
+          563,
+          543
+        ],
+        "last_day": 543,
+        "last3_vs_previous3": 0.2414814814814814,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 3521,
+      "video_share_calculated": 0.3681,
+      "share_text": "视频销量占比36%",
+      "all_at": "2026-10-19T08:31:34.987062+08:00",
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3821104999774159231",
+      "product_id": "3819647824560259130",
+      "title": "Snoopy/史努比儿童羽绒服男女宝中小童春秋连帽羽绒外套",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 99.9,
+      "price_label": "到手价",
+      "volume7_video": 1286,
+      "volume_source": "network_exact",
+      "month_all_display": 6259,
+      "stage": "价格边界待核",
+      "category_factor": 0.9,
+      "price_factor": null,
+      "thresholds": null,
+      "shop": "史努比Snoopy言漫母婴服饰专卖店",
+      "score": 84,
+      "observed_prices": [
+        99.9
+      ],
+      "possible_stages": [
+        "价格边界待核"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3819647824560259130&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          245,
+          292,
+          267,
+          407,
+          270,
+          206,
+          259
+        ],
+        "last_day": 259,
+        "last3_vs_previous3": -0.08582089552238803,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3815554465260503333",
+      "product_id": "3811657772437733747",
+      "title": "芝麻街【反季羽绒服】男女童连帽排骨轻薄外套90白鸭绒秋冬保暖401",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 119.9,
+      "price_label": "到手价",
+      "volume7_video": 1229,
+      "volume_source": "network_exact",
+      "month_all_display": 6186,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "芝麻街童装旗舰店",
+      "score": 89,
+      "observed_prices": [
+        119.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3811657772437733747&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          208,
+          201,
+          211,
+          321,
+          278,
+          309,
+          383
+        ],
+        "last_day": 383,
+        "last3_vs_previous3": 0.564516129032258,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3739268014252621867",
+      "product_id": "3739266884701388867",
+      "title": "【双面双穿】雅鹿童装儿童羽绒服现货新款双面穿中大童排骨款亲子GC",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 89.9,
+      "price_label": "到手价",
+      "volume7_video": 1117,
+      "volume_source": "network_exact",
+      "month_all_display": 1925,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.6,
+      "thresholds": [
+        540,
+        5400,
+        27000
+      ],
+      "shop": "雅鹿•自由自在童装旗舰店",
+      "score": 86,
+      "observed_prices": [
+        89.9
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3739266884701388867&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          133,
+          51,
+          278,
+          84,
+          72,
+          499,
+          147
+        ],
+        "last_day": 147,
+        "last3_vs_previous3": 0.5541125541125542,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3840565685428289567",
+      "product_id": "3840554713993052413",
+      "title": "【新品】papa爬爬冬季儿童排骨羽绒服男女童轻薄内胆保暖防风外套",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 251.1,
+      "price_label": "到手价",
+      "volume7_video": 1102,
+      "volume_source": "network_exact",
+      "month_all_display": 5776,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "papa爬爬官方旗舰店",
+      "score": 96,
+      "observed_prices": [
+        251.1
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3840554713993052413&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          396,
+          298,
+          216,
+          982,
+          565,
+          362,
+          95
+        ],
+        "last_day": 95,
+        "last3_vs_previous3": 0.1230769230769233,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3821685872592552137",
+      "product_id": "3821682191763636483",
+      "title": "[专属]ASICS/26年亚瑟士中大童男女冬季新款三防轻暖羽绒服334261072302",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 229.0,
+      "price_label": "到手价",
+      "volume7_video": 1065,
+      "volume_source": "network_exact",
+      "month_all_display": 7970,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "Asics亚瑟士儿童官方旗舰店",
+      "score": 88,
+      "observed_prices": [
+        229.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3821682191763636483&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          197,
+          223,
+          207,
+          231,
+          155,
+          193,
+          219
+        ],
+        "last_day": 219,
+        "last3_vs_previous3": -0.09569377990430628,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": null,
+      "video_share_calculated": null,
+      "share_text": null,
+      "all_at": null,
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    },
+    {
+      "rank_id": "3838872530081415316",
+      "product_id": "3838860551384072212",
+      "title": "【冬首发&小火炉4.0】左西童装男童羽绒服冬保暖2026三防蓄热面包服",
+      "categories": [
+        "羽绒服"
+      ],
+      "price": 99999.0,
+      "price_label": "到手价",
+      "volume7_video": 876,
+      "volume_source": "network_exact",
+      "month_all_display": 6764,
+      "stage": "红利上升期",
+      "category_factor": 0.9,
+      "price_factor": 0.3,
+      "thresholds": [
+        270,
+        2700,
+        13500
+      ],
+      "shop": "左西官方旗舰店",
+      "score": 100,
+      "observed_prices": [
+        99999.0
+      ],
+      "possible_stages": [
+        "红利上升期"
+      ],
+      "detail_url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3838860551384072212&origin_type=2631",
+      "trend": {
+        "dates": [
+          "20261012",
+          "20261013",
+          "20261014",
+          "20261015",
+          "20261016",
+          "20261017",
+          "20261018"
+        ],
+        "units": [
+          30,
+          28,
+          28,
+          1977,
+          954,
+          2666,
+          843
+        ],
+        "last_day": 843,
+        "last3_vs_previous3": 50.895348837209305,
+        "channel": "未明确，不用作视频销量占比分母"
+      },
+      "volume7_all": 6525,
+      "video_share_calculated": 0.1343,
+      "share_text": "直播销量占比65%",
+      "all_at": "2026-10-19T08:31:34.987062+08:00",
+      "at": "2026-10-19T08:27:23.793027+08:00",
+      "price_at": "2026-10-19T08:27:24.086047+08:00",
+      "link_status": "未核：缺累计销量、上架时间及同口径昨日／近2日数据",
+      "new_video_status": "未核：近7日新视频占比／排名／同期出单视频数",
+      "ordinary_account_status": "未核：前列成交账号LV与头部集中度"
+    }
+  ]
+}
